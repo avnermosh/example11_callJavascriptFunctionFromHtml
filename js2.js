@@ -1,5 +1,5 @@
 
-class Es6Module {
+class Es6Module2 {
     static myFunction2 = function(val2) {
         console.log('BEG myFunction2');
         console.log('val2'); 
