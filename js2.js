@@ -8,5 +8,5 @@ class Es6Module2 {
     };
 };
 
-export { Es6Module };
+export { Es6Module2 };
 
