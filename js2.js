@@ -8,5 +8,7 @@ class Es6Module2 {
     };
 };
 
+document.querySelector('#button2').addEventListener('click', Es6Module2.myFunction2);
+
 export { Es6Module2 };
 
